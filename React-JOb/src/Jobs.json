@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "jobTitle": "Frontend Developer",
+    "company": "Tech Innovators Inc.",
+    "location": "San Francisco, CA",
+    "jobType": "Full-time",
+    "skills": ["React", "JavaScript", "HTML", "CSS", "REST APIs"],
+    "description": "Develop and maintain web applications using React. Collaborate with cross-functional teams to design and implement user interfaces.",
+    "salaryRange": "$100,000 - $130,000 per year",
+    "postedDate": "2024-12-22"
+  },
+  {
+    "id": 2,
+    "jobTitle": "React Developer",
+    "company": "Creative Coders Ltd.",
+    "location": "Remote",
+    "jobType": "Contract",
+    "skills": ["React", "Redux", "TypeScript", "GraphQL"],
+    "description": "Build scalable and maintainable React components for our e-commerce platform. Ensure performance and responsiveness across all devices.",
+    "salaryRange": "$90,000 - $120,000 per year",
+    "postedDate": "2024-12-21"
+  },
+  {
+    "id": 3,
+    "jobTitle": "Full Stack Developer",
+    "company": "NextGen Solutions",
+    "location": "New York, NY",
+    "jobType": "Part-time",
+    "skills": ["React", "Node.js", "MongoDB", "Express.js", "AWS"],
+    "description": "Develop and manage full-stack applications, focusing on the frontend with React and integrating backend APIs.",
+    "salaryRange": "$80,000 - $110,000 per year",
+    "postedDate": "2024-12-20"
+  },
+  {
+    "id": 4,
+    "jobTitle": "UI/UX Engineer",
+    "company": "Visionary Apps",
+    "location": "Austin, TX",
+    "jobType": "Full-time",
+    "skills": ["React", "CSS-in-JS", "Figma", "Responsive Design"],
+    "description": "Translate design mockups into high-quality React components. Work closely with designers to enhance user experience.",
+    "salaryRange": "$95,000 - $125,000 per year",
+    "postedDate": "2024-12-19"
+  },
+  {
+    "id": 5,
+    "jobTitle": "React Native Developer",
+    "company": "Mobile Masterpieces",
+    "location": "Seattle, WA",
+    "jobType": "Full-time",
+    "skills": ["React Native", "JavaScript", "Redux", "Firebase"],
+    "description": "Develop and maintain mobile applications using React Native. Optimize performance for iOS and Android platforms.",
+    "salaryRange": "$100,000 - $130,000 per year",
+    "postedDate": "2024-12-18"
+  },
+  {
+    "id": 6,
+    "jobTitle": "Frontend Engineer",
+    "company": "Cloud Sync Corp.",
+    "location": "Boston, MA",
+    "jobType": "Full-time",
+    "skills": ["React", "TypeScript", "Tailwind CSS", "REST APIs"],
+    "description": "Design and implement responsive frontend solutions using React and TypeScript. Collaborate with backend teams to deliver seamless user experiences.",
+    "salaryRange": "$105,000 - $135,000 per year",
+    "postedDate": "2024-12-17"
+  },
+  {
+    "id": 7,
+    "jobTitle": "React.js Developer",
+    "company": "Digital Horizon",
+    "location": "Chicago, IL",
+    "jobType": "Full-time",
+    "skills": ["React", "JavaScript", "Next.js", "CSS Modules"],
+    "description": "Work on cutting-edge projects using React and Next.js. Create pixel-perfect components and ensure application performance.",
+    "salaryRange": "$90,000 - $120,000 per year",
+    "postedDate": "2024-12-16"
+  },
+  {
+    "id": 8,
+    "jobTitle": "Junior React Developer",
+    "company": "Code Labs",
+    "location": "Remote",
+    "jobType": "Internship",
+    "skills": ["React", "HTML", "CSS", "JavaScript"],
+    "description": "Assist in building and maintaining React applications. Gain hands-on experience in modern frontend development.",
+    "salaryRange": "$50,000 - $70,000 per year",
+    "postedDate": "2024-12-15"
+  },
+  {
+    "id": 9,
+    "jobTitle": "Senior Frontend Developer",
+    "company": "Techverse Ltd.",
+    "location": "Denver, CO",
+    "jobType": "Full-time",
+    "skills": ["React", "JavaScript", "Redux", "Webpack", "Jest"],
+    "description": "Lead a team of developers in creating high-performance React applications. Mentor junior developers and ensure coding standards.",
+    "salaryRange": "$120,000 - $150,000 per year",
+    "postedDate": "2024-12-14"
+  },
+  {
+    "id": 10,
+    "jobTitle": "React Developer - FinTech",
+    "company": "Banking Future",
+    "location": "Remote",
+    "jobType": "Full-time",
+    "skills": ["React", "TypeScript", "REST APIs", "Microservices"],
+    "description": "Develop React-based components for a cutting-edge FinTech platform. Collaborate with cross-functional teams to enhance the user experience.",
+    "salaryRange": "$110,000 - $140,000 per year",
+    "postedDate": "2024-12-13"
+  }
+]
